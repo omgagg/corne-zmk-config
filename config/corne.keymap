@@ -28,7 +28,7 @@
             tapping-term-ms = <200>;
             bindings = <&mt LSHIFT DEL>, <&kp LCTRL(LSHIFT)>;
         };
-    }
+    };
 
     keymap {
         compatible = "zmk,keymap";
