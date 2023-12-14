@@ -46,7 +46,7 @@
         lower_layer {
             bindings = <
     &mt LALT PLUS   &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT  &kp CARET  &kp AMPS   &kp STAR   &kp LPAR  &kp RPAR  &mt RALT UNDER
-    &mt LWIN EQUAL  &kp N1    &kp N2  &kp N3    &kp N4      &kp N5       &kp N6     &kp N6     &kp N8     &kp N9    &kp N0    &mt RWIN MINUS
+    &mt LWIN EQUAL  &kp N1    &kp N2  &kp N3    &kp N4      &kp N5       &kp N6     &kp N7     &kp N8     &kp N9    &kp N0    &mt RWIN MINUS
     &td_ls_cw       &none     &none   &kp LBRC  &kp RBRC    &kp BSLH     &kp PIPE   &kp MINUS  &kp UNDER  &kp LBKT  &kp RBKT  &mt RCTRL GRAVE
     &lt ADJ TAB     &trans    &trans  &trans    &trans      &lt ADJ TAB
             >;
