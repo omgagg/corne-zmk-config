@@ -15,10 +15,12 @@
 
 &lt {
     quick_tap_ms = <200>;
+    require-prior-idle-ms = <125>;
 };
 
 &mt {
     quick_tap_ms = <200>;
+    require-prior-idle-ms = <125>;
 };
 
 / {
